@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BetterSol/solomiya.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/BetterSol/solomiya.github.io.git/static/js/main.f548ffcd.js",
+    "static/js/787.a708a7ec.chunk.js": "/BetterSol/solomiya.github.io.git/static/js/787.a708a7ec.chunk.js",
+    "static/media/logo.svg": "/BetterSol/solomiya.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BetterSol/solomiya.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/BetterSol/solomiya.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.f548ffcd.js.map": "/BetterSol/solomiya.github.io.git/static/js/main.f548ffcd.js.map",
+    "787.a708a7ec.chunk.js.map": "/BetterSol/solomiya.github.io.git/static/js/787.a708a7ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f548ffcd.js"
+  ]
+}
